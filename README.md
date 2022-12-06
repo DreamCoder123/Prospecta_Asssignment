@@ -18,4 +18,4 @@ A1: 5, A2: 7, A3: 9, B1: 3, B2: 8, B3: =4+5, C1: =5+A1, C2: =A2+B2, C3: =C2+B3
   
  3.  How might a user break your code?
 
-    By Passing first word as a integer which is urrelevant type of data.
+    By Passing first word as a integer which is irrelevant type of data.
